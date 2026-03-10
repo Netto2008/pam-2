@@ -1,0 +1,1 @@
+export const API_URL = "https://fictional-couscous-x5p6wjvwg6j52p549-3000.app.github.dev/";
